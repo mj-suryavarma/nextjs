@@ -1,0 +1,21 @@
+.nav {
+   height: 60px;
+   background-color: black;
+   padding: 20px;
+   margin: 0;
+
+}
+
+.nav > ul {
+     display: flex;
+     justify-content: flex-start;
+     gap:30px;
+     text-decoration: none;
+     list-style: none;
+}
+
+.nav > ul > li {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
