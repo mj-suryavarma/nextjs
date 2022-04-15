@@ -8,7 +8,7 @@ const about = () => {
             <title>About nextjs</title>
             <meta ></meta>
         </Head>
-        <h2>About of the page fuckiniing</h2>
+        <h2>About of the page fuckiniing </h2>
     </div>
   )
 }
